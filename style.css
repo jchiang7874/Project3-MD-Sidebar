@@ -1,0 +1,63 @@
+body {
+    width: 100%;
+}
+
+aside {
+    margin: 20px auto;
+    width: 400px;
+    height: 600px;
+    font-family: 'Special Elite', cursive;
+    font-size: 16px;
+    padding: 10px;
+    box-shadow: inset 2px 2px 2px #3c3c3c, 2px 2px 2px #3c3c3c;
+    //background-color: #21b8d8;
+    background: linear-gradient(#AEBCD6, #B8B5D0, #E6EAF3);
+    position: relative;
+}
+
+aside, .pix {
+    border-radius: 5px;
+}
+
+.photos {
+    padding: 20px 0;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+    border-top: 2px solid rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+.pix {
+    display: inline-block;
+    box-shadow: 2px 2px 2px #3c3c3c;
+    width: 80%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin: 20px 10px;
+}
+
+.back-link {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+}
+
+.back-icon {
+    width: 32px;
+    height: 32px;
+    margin-right: 5px;
+}
+
+.back-icon, a span {
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
