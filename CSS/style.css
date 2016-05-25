@@ -11,7 +11,7 @@ aside {
     padding: 10px;
     box-shadow: inset 2px 2px 2px #3c3c3c, 2px 2px 2px #3c3c3c;
     //background: linear-gradient(#AEBCD6, #B8B5D0, #E6EAF3);
-    background: url("imgs/flat-wallpaper.png");
+    background: url("../imgs/flat-wallpaper.png");
     position: relative;
 }
 
